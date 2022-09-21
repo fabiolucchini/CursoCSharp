@@ -1,6 +1,0 @@
-C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe.config
-C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
-C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
-C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csprojResolveAssemblyReference.cache
-C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
-C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb
