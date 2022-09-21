@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresLogicos\obj\Debug\OperadoresLogicos.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb

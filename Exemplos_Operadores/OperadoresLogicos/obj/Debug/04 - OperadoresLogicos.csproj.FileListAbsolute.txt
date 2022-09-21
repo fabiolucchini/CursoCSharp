@@ -1,0 +1,7 @@
+C:\_WorkSpace\Cursos\Treinamento CSharp 19_09_22 até 08_10_22\Semana01\Aula03\Exemplos_Operadores\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+C:\_WorkSpace\Cursos\Treinamento CSharp 19_09_22 até 08_10_22\Semana01\Aula03\Exemplos_Operadores\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\_WorkSpace\Cursos\Treinamento CSharp 19_09_22 até 08_10_22\Semana01\Aula03\Exemplos_Operadores\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\_WorkSpace\Cursos\Treinamento CSharp 19_09_22 até 08_10_22\Semana01\Aula03\Exemplos_Operadores\OperadoresLogicos\obj\Debug\04 - OperadoresLogicos.csproj.AssemblyReference.cache
+C:\_WorkSpace\Cursos\Treinamento CSharp 19_09_22 até 08_10_22\Semana01\Aula03\Exemplos_Operadores\OperadoresLogicos\obj\Debug\04 - OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\_WorkSpace\Cursos\Treinamento CSharp 19_09_22 até 08_10_22\Semana01\Aula03\Exemplos_Operadores\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\_WorkSpace\Cursos\Treinamento CSharp 19_09_22 até 08_10_22\Semana01\Aula03\Exemplos_Operadores\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb

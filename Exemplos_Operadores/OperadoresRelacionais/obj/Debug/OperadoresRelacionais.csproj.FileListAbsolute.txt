@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresRelacionais\bin\Debug\OperadoresRelacionais.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresRelacionais\bin\Debug\OperadoresRelacionais.exe
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresRelacionais\bin\Debug\OperadoresRelacionais.pdb
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresRelacionais\obj\Debug\OperadoresRelacionais.exe
+C:\Users\Elias\Desktop\CodigoFonte\09 - Seção\Solucao\OperadoresRelacionais\obj\Debug\OperadoresRelacionais.pdb
