@@ -13,25 +13,27 @@ namespace Supermercado
         Cheque = 2,
         Pix = 3
     }
-    class Pedido
+    class Pedido:IPedido
     {
         Cliente _cliente;
         List<Item> _Itens = new List<Item>();
+        List<Produto> _produtos = null;
         FormaPagamento _formaPagamento;
         ePagamento _pagamento;
+        public ePagamento Pagamento { get => _pagamento; set => _pagamento = value; }
 
-        public Pedido(string nomeCliente)
+        public Pedido(string nomeCliente, ref List<Produto> produtos)
         {
             _cliente = new Cliente(nomeCliente);
+            _produtos = produtos;
             _pagamento = ePagamento.Cartao;
             
         }
 
-        public ePagamento Pagamento { get => _pagamento; set => _pagamento = value; }
-
+       
         public bool AdicionarItem ( string nomeProduto, float quantidade)
         {
-            Item itemProduto = new Item();
+            Item itemProduto = new Item(ref _produtos);
             if (!itemProduto.MontarPreco(nomeProduto, quantidade))
                 return false;
             _Itens.Add(itemProduto);
@@ -46,6 +48,10 @@ namespace Supermercado
                 total += item.GetTotalProduto();
             }
             return total;
+        }
+        public void ListarTodosProdutos()
+        {
+
         }
     }
 }
