@@ -13,6 +13,7 @@ namespace Supermercado
         Cheque = 2,
         Pix = 3
     }
+
     class Pedido:IPedido
     {
         Cliente _cliente;
@@ -24,13 +25,12 @@ namespace Supermercado
 
         public Pedido(string nomeCliente, ref List<Produto> produtos)
         {
-            _cliente = new Cliente(nomeCliente);
+            _cliente = new Cliente(nomeCliente,Cliente.Situacao_Usuario.Ativo);
             _produtos = produtos;
             _pagamento = ePagamento.Cartao;
-            
         }
 
-       
+
         public bool AdicionarItem ( string nomeProduto, float quantidade)
         {
             Item itemProduto = new Item(ref _produtos);
